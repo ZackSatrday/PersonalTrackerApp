@@ -1,0 +1,1 @@
+// App shell wrapper placeholder
